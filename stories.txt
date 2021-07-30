@@ -1,0 +1,32 @@
+About Me
+
+I am a Web Developer seeking a full-time web development position. I graduated with a Bachelor's degree in Digital Marketing at Utah Valley University. Shortly after, I enrolled in the Web Development Bootcamp at Devmountain.
+
+I was first introduced to coding by a couple of classes that were required for my Digital Marketing degree. I was intrigued with how one could create and build through code. I have always been a hands-on type of person. I love tinkering on vehicles and tuning up my bikes and dirt bikes. You could classify me as a DIY type of person. Coding naturally became another outlet for me to build and tinker.
+
+Not long after graduating and completing a few marketing internships, I decided to switch gears and pursue coding as a career.
+
+Experiences
+
+Right after graduating from Utah Valley University I bought a subscription to Codecademy to see if coding could be a career I could pursue. Due to the limited time I had from a couple of internships and activities, I'd spend about an hour a day in a variety of their HTML/CSS/Javascript courses. 
+
+I enjoyed what I was learning and I knew I had to spend more time learning if I wanted to make it work. After my internships ended, I immediately enrolled in Devmountains Web Development program.
+
+I have enjoyed many things about Web Development. The problem solving, building, and bringing ideas to life is very fulfilling. I'm very happy where I am at, as far as career goes, and where it will take me.
+
+Experiences
+
+In the first couple of weeks of Devmountain I was struggling to understand some of the topics being taught. Most of the curriculum was new to me and I felt overwhelmed with the firehose of topics. I was worried I'd fall behind. 
+
+After a few weeks into the bootcamp, I learned a few things about myself. 
+One, I learn when I am well rested. I learned to set a sleeping schedule so I'd be better prepared for the following day.
+
+Two, I tend to want to understand everything at once. I quickly realized that isn't how coding works. I had to be patient with myself in the learning process and learn one step at a time. 
+
+Three, If I couldn't solve a problem and I had been working on it for more time than I expected, I would need to take a break. Going on a walk, grabbing a snack, or simply just closing my eyes for 5 minutes would help me clear my mind. After a short break I noticed I would approach the problem differently or solve it quicker. 
+
+Experiences
+
+I was having a hard time understanding the DOM and selecting items with Javascript. After 8 hours of going through the course material, demo, and lab exercise, I still felt like I wasn't grasping the topic. So, after a break I began watching tutorial videos and follwing along to practice. I noticed that I was starting to understand how the DOM works and how to select elements. Although I don't understand everything about the DOM, this little personal breakthrough will help me build on what I already know. 
+
+Learning from multiple sources can significantly help my understanding of what may seem like a difficult topic. 
